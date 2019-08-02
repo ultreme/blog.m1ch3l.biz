@@ -1,0 +1,77 @@
+title: "M1Ch3L!"
+
+theme: minimal
+
+timeout: 60000
+
+metaDataFormat: yaml
+
+baseURL: https://blog.m1ch3l.biz/
+
+languageCode: en-US
+
+enableGitInfo: true
+
+taxonomies:
+  category: categories
+  tag: tags
+  author: author
+
+author:
+  name: M1ch3l
+  email: m1ch3l@m1ch3l.biz
+  logo: /favicon.ico
+
+enableEmoji: true
+
+params:
+  #useSummaryIfNoDescription: true
+  description: "Hello, I'm M1ch3l."
+  copyright: Copyright (c)
+  themeColor: custom
+  RSSlink: /index.xml
+  title: M1ch3l
+
+  organizationName: Ultreme M1ch3l
+#  organizationLogo: /img/logo_square-1200x1200.png
+
+  navbarLogo: /favicon.ico
+
+  logoSVG: /favicon.ico
+  logoPNG: /favicon.ico
+  defaultFeaturedImage: /favicon.ico
+
+  # APP
+  appName: M1ch3l
+#  appCategory: Messaging
+#  appOperatingSystem:
+#    - Android
+#    - iOS
+#    - OSX
+#    - Windows
+
+  # SEO
+  name: "M1ch3l"
+  bio: "Hello, my name is M1ch3l."
+  location: "Paris, France"
+#  twitter: "m1ch3l"
+  github: "ultreme"
+#  medium: "m1ch3l"
+  #facebook: ""
+#  linkedin: m1ch3l
+  #googleplus:
+  #instagram:
+  #slack_url:
+
+  useSummaryIfNoDescription: true
+
+  keepReadingStr: More
+  backtotopStr: Up
+  shareStr: Share
+  pageNotFoundTitle: "404 - Page not found"
+
+
+imaging:
+  resampleFilter: linear
+  quality: 95
+  anchor: smart

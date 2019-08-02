@@ -1,0 +1,10 @@
+images-src/
+*.tmp
+*.swp
+*~
+.*#
+*#
+.DS_Store
+public/
+node_modules/
+resources/_gen
