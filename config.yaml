@@ -17,6 +17,9 @@ taxonomies:
   tag: tags
   author: author
 
+
+permalinks:
+  post: "/post/:slug"
 author:
   name: M1ch3l
   email: m1ch3l@m1ch3l.biz

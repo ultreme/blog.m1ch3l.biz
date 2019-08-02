@@ -18,6 +18,7 @@ date: "$date"
 tags: ["$type", "pipotron"]
 author: m1ch3l
 categories: ["generated"]
+slug: "$type/$day-$hour"
 ---
 
 $body
@@ -39,6 +40,7 @@ date: "$date"
 tags: ["$type", "pipotron", "image"]
 author: m1ch3l
 categories: ["generated"]
+slug: "$type/$day-$hour"
 ---
 
 $body
