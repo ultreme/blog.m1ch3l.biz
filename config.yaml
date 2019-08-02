@@ -70,8 +70,40 @@ params:
   shareStr: Share
   pageNotFoundTitle: "404 - Page not found"
 
+  author: M1ch3l
+  githubUsername : "ultreme"
+  accent : "purple"
+  showBorder : true
+  backgroundColor : "white"
+  font : "Raleway" # should match the name on Google Fonts!
+  highlight : true
+  highlightStyle : "solarized-dark"
+  highlightLanguages : ["go", "haskell", "kotlin", "scala", "swift"]
+
+
 
 imaging:
   resampleFilter: linear
   quality: 95
   anchor: smart
+
+
+#disqusShortname: "username"
+googleAnalytics: ""
+
+
+menu:
+  main:
+    - url: /
+      name: Home
+      weight: 1
+    - url: /post/
+      name: Posts
+      weight: 2
+
+  icon:
+    - url: https://ultre.me
+      name: "Ultreme"
+      weight: 1
+# github
+# twitter
