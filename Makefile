@@ -11,3 +11,16 @@ build: $(DEPS)
 .PHONY: netlify-dev
 netlify-dev:
 	netlify dev -c 'make dev'
+
+.PHONY: bot
+bot:
+	while true; do make bot-once; sleep 43200; done
+
+.PHONY: bot-once
+bot-once:
+	git pull
+	./generate.sh
+	git add .
+	git commit -am "hello, call me m1ch3l" || true
+	git push || true
+
