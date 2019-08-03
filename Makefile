@@ -19,6 +19,8 @@ bot:
 .PHONY: bot-once
 bot-once:
 	git pull
+	docker pull moul/pipotron
+	docker pull ultreme/jargon-generator
 	./generate.sh
 	git add .
 	git commit -am "hello, call me m1ch3l" || true
