@@ -8,6 +8,11 @@ dev: $(DEPS)
 build: $(DEPS)
 	hugo --gc --minify
 
+.PHONY: build-thumbnails
+build-thumbnails:
+	hugo --gc
+	./generate-thumbnails.sh
+
 .PHONY: netlify-dev
 netlify-dev:
 	netlify dev -c 'make dev'
@@ -22,7 +27,7 @@ bot-once:
 	docker pull moul/pipotron
 	docker pull ultreme/jargon-generator
 	./generate.sh
+	make build-thumbnails
 	git add .
 	git commit -am "hello, call me m1ch3l" || true
 	git push || true
-

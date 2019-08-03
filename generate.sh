@@ -10,8 +10,8 @@ pipotron_run() {
     body_filters="${3:-cat}"
     body=$(docker run moul/pipotron "$type" | $body_filters)
     title=$(echo "$body" | head -n 1 | $title_filters | sed 's/<br>//' | sed -e's/[[:space:]]*$//' | awk -v len=40 '{ if (length($0) > len) print substr($0, 1, len-3) "..."; else print; }')
-    mkdir -p content/post/pipotron/$type
-    cat > content/post/pipotron/$type/$day-$hour.md <<EOF
+    mkdir -p content/post/pipotron/$type/$day-$hour
+    cat > content/post/pipotron/$type/$day-$hour/index.md <<EOF
 ---
 title: "$title"
 date: "$date"
