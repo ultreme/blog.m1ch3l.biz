@@ -9,7 +9,7 @@ pipotron_run() {
     title_filters="${2:-cat}"
     body_filters="${3:-cat}"
     body=$(docker run moul/pipotron "$type" | $body_filters)
-    title=$(echo "$body" | iconv -t utf-8 | head -n 1 | $title_filters | sed 's/<br>//' | sed -e's/[[:space:]]*$//' | awk -v len=40 '{ if (length($0) > len) print substr($0, 1, len-3) "..."; else print; }')
+    title=$(echo "$body" | head -n 1 | $title_filters | sed 's/<br>//' | sed -e's/[[:space:]]*$//' | awk -v len=40 '{ if (length($0) > len) print substr($0, 1, len-3) "..."; else print; }' | iconv -t utf-8 -c)
     mkdir -p content/post/pipotron/$type/$day-$hour
     cat > content/post/pipotron/$type/$day-$hour/index.md <<EOF
 ---
