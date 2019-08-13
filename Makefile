@@ -19,7 +19,7 @@ netlify-dev:
 
 .PHONY: bot
 bot:
-	while true; do make bot-once; sleep 43200; done
+	while true; do make bot-once; sleep 86400; done
 
 .PHONY: bot-once
 bot-once:
