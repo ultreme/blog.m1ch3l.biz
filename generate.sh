@@ -76,7 +76,7 @@ cat > content/post/pipotron/jargon/$day-$hour/index.md <<EOF
 ---
 title: "$title"
 date: "$date"
-tags: ["$type", "pipotron", "image"]
+tags: ["$type", "pipotron"]
 author: m1ch3l
 categories: ["generated"]
 slug: "$type/$day-$hour"
