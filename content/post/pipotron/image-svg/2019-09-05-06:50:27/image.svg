@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="600px" viewBox="0 0 800 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs></defs>
+  <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    
+    <rect stroke="#97B31C" stroke-width="6" fill="#D44BDB" opacity="0.9589986232068987" stroke-opacity="0.050715171354064725" transform="rotate(51.0 400 300)" x="606" y="151" width="97" height="374"></rect>
+<path stroke="#83112A" stroke-width="3" fill="#387772" opacity="0.8803252533528985" stroke-opacity="0.8593107575512287" transform="rotate(158.0 400 300)" d="M 579,333  C 393,329 548,357 593,313 C 306,174 528,388 525,127 C 654,249 497,360 543,214 C 557,465 209,415 590,479 C 184,307 558,366 509,208 Z"></path>
+<rect stroke="#A5ADA6" stroke-width="2" fill="#04D779" opacity="0.8723160844863258" stroke-opacity="0.1563385016525371" transform="rotate(-44.0 400 300)" x="41" y="560" width="341" height="152"></rect>
+<ellipse stroke="#28A3C9" stroke-width="2" fill="#CC2B2A" opacity="0.4175910251827637" stroke-opacity="0.46000214805817347" transform="rotate(174.0 400 300)" cx="469" rx="88" cy="262" ry="117"></ellipse>
+<path stroke="#155315" stroke-width="4" fill="#361D96" opacity="0.574598982190681" stroke-opacity="0.9946957643978781" transform="rotate(167.0 400 300)" d="M 670,234  C 391,432 698,266 164,299 C 289,158 110,334 407,305 C 237,180 241,352 670,361 C 444,389 111,317 469,481 C 323,263 188,276 637,409 C 508,349 679,125 510,114 C 540,328 330,115 350,128 C 346,117 188,345 521,400 Z"></path>
+<path stroke="#303D5D" stroke-width="3" fill="#A7C989" opacity="0.16535259930356885" stroke-opacity="0.5412400322687481" transform="rotate(18.0 400 300)" d="M 380,382  C 310,330 427,389 312,271 C 166,474 530,400 467,437 C 177,167 198,131 248,438 C 372,190 634,478 556,491 C 164,345 218,140 500,438 C 481,432 133,283 562,164 C 192,469 562,451 594,107 C 418,194 520,474 200,271 C 667,204 323,401 235,372 Z"></path>
+<rect stroke="#033DAB" stroke-width="3" fill="#82C9AC" opacity="0.4498922295684985" stroke-opacity="0.8203263347433508" transform="rotate(-68.0 400 300)" x="99" y="588" width="239" height="271"></rect>
+<path stroke="#818B33" stroke-width="1" fill="#4D948A" opacity="0.1463371598070225" stroke-opacity="0.22820004026454924" transform="rotate(153.0 400 300)" d="M 209,262  C 199,369 270,461 483,373 C 537,307 221,486 437,322 C 114,106 627,120 561,334 C 364,194 255,188 190,429 C 284,114 501,113 300,420 C 542,264 509,198 473,122 C 334,347 148,244 243,130 C 652,270 228,101 384,303 C 105,108 585,399 308,491 C 404,174 387,108 562,272 C 565,143 437,416 241,238 Z"></path>
+<rect stroke="#6A9C92" stroke-width="2" fill="#36CC42" opacity="0.39280850360930336" stroke-opacity="0.14940597042037632" transform="rotate(-156.0 400 300)" x="344" y="520" width="197" height="134"></rect>
+<polygon stroke="#A45CDC" stroke-width="5" fill="#0D6170" opacity="0.6728317669453386" stroke-opacity="0.730660997910542" transform="rotate(121.0 400 300)" points="596 498 75 344 527 347 671 246 203 516 689 533 "></polygon>
+<rect stroke="#6423D8" stroke-width="4" fill="#ADBD24" opacity="0.23036648852611874" stroke-opacity="0.44922069467372633" transform="rotate(-149.0 400 300)" x="545" y="314" width="85" height="196"></rect>
+
+  </g>
+</svg>
