@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="600px" viewBox="0 0 800 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs></defs>
+  <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    
+    <polygon stroke="#fe9225" stroke-width="7" fill="#f559a0" opacity="0.17076928578510564" stroke-opacity="0.4635047201652668" transform="rotate(83.0 400 300)" points="618 79 696 327 233 350 639 408 386 486 642 597 "></polygon>
+<path stroke="#0fa6d8" stroke-width="7" fill="#fe9225" opacity="0.09314412319678717" stroke-opacity="0.15276861242935616" transform="rotate(8.0 400 300)" d="M 451,311  C 176,330 638,240 657,355 C 266,189 338,379 571,418 C 694,274 178,498 280,380 C 462,413 492,316 272,449 C 525,309 531,341 596,111 C 617,215 548,231 267,269 C 321,397 221,205 379,201 C 486,307 474,123 586,249 C 204,428 658,139 318,152 C 660,393 419,216 559,338 C 263,500 296,471 455,304 Z"></path>
+<path stroke="#0fa6d8" stroke-width="2" fill="#fe9225" opacity="0.8924125993069852" stroke-opacity="0.3472579049490256" transform="rotate(68.0 400 300)" d="M 450,116  C 325,376 406,256 253,438 C 693,265 694,444 415,232 C 254,271 313,233 497,166 C 593,376 114,366 158,270 C 210,410 646,238 404,161 Z"></path>
+<rect stroke="#0fa6d8" stroke-width="1" fill="#fe9225" opacity="0.9174251474551628" stroke-opacity="0.8072940159488492" transform="rotate(70.0 400 300)" x="85" y="80" width="267" height="278"></rect>
+<ellipse stroke="#2cd3f3" stroke-width="4" fill="#2cd3f3" opacity="0.4600529201509993" stroke-opacity="0.7650620324029553" transform="rotate(160.0 400 300)" cx="323" rx="357" cy="165" ry="332"></ellipse>
+<ellipse stroke="#fe9225" stroke-width="5" fill="#02eb6b" opacity="0.8574734758524087" stroke-opacity="0.1403974110098386" transform="rotate(-14.0 400 300)" cx="173" rx="441" cy="458" ry="137"></ellipse>
+<path stroke="#0fa6d8" stroke-width="2" fill="#2cd3f3" opacity="0.28268315356671336" stroke-opacity="0.9597615950739955" transform="rotate(28.0 400 300)" d="M 524,323  C 522,213 444,401 622,483 C 310,278 518,178 274,497 C 263,230 119,342 337,441 C 509,273 363,343 691,370 C 678,200 363,272 560,289 C 686,278 229,265 562,271 Z"></path>
+<path stroke="#f559a0" stroke-width="2" fill="#0fa6d8" opacity="0.4898749484886947" stroke-opacity="0.30792133649314024" transform="rotate(134.0 400 300)" d="M 354,292  C 205,131 155,426 696,449 C 318,498 510,151 645,149 C 699,195 649,318 556,309 C 680,275 686,334 295,258 C 650,294 375,300 467,168 C 267,363 449,453 624,161 C 620,161 127,309 686,499 Z"></path>
+<rect stroke="#2cd3f3" stroke-width="4" fill="#2cd3f3" opacity="0.3717847423591371" stroke-opacity="0.06840809174163644" transform="rotate(40.0 400 300)" x="331" y="398" width="260" height="44"></rect>
+<path stroke="#02eb6b" stroke-width="1" fill="#fe9225" opacity="0.2581098497895734" stroke-opacity="0.35266405349810354" transform="rotate(5.0 400 300)" d="M 279,475  C 621,385 387,479 500,415 C 432,105 600,148 479,392 C 375,453 652,463 219,161 C 425,262 257,140 121,289 C 353,171 334,315 354,463 C 635,145 388,403 185,300 C 329,102 189,394 267,141 C 520,114 328,268 412,417 C 424,408 640,246 154,289 C 606,199 120,145 496,481 Z"></path>
+
+  </g>
+</svg>
