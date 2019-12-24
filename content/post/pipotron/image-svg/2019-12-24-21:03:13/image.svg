@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="600px" viewBox="0 0 800 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs></defs>
+  <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    
+    <polygon stroke="#ed2b2c" stroke-width="5" fill="#f27630" opacity="0.3306050553498251" stroke-opacity="0.8703365454355108" transform="rotate(-148.0 400 300)" points="145 565 111 401 728 356 443 326 486 193 486 44 "></polygon>
+<rect stroke="#f27630" stroke-width="4" fill="#31a06b" opacity="0.8668397808942874" stroke-opacity="0.07023824732071003" transform="rotate(-158.0 400 300)" x="86" y="212" width="165" height="327"></rect>
+<rect stroke="#f9d84b" stroke-width="4" fill="#f9d84b" opacity="0.5033536152166607" stroke-opacity="0.44877896170331505" transform="rotate(-17.0 400 300)" x="242" y="245" width="202" height="306"></rect>
+<rect stroke="#ed2b2c" stroke-width="2" fill="#2b55f7" opacity="0.781040819915541" stroke-opacity="0.8423149535458725" transform="rotate(158.0 400 300)" x="334" y="257" width="185" height="162"></rect>
+<rect stroke="#f9d84b" stroke-width="2" fill="#ed2b2c" opacity="0.9743121279515278" stroke-opacity="0.06541217036911896" transform="rotate(-38.0 400 300)" x="596" y="127" width="44" height="345"></rect>
+<path stroke="#f27630" stroke-width="3" fill="#2b55f7" opacity="0.28516252500921785" stroke-opacity="0.19165415084609025" transform="rotate(-112.0 400 300)" d="M 690,294  C 562,422 614,342 185,254 C 651,168 504,148 403,165 C 323,263 267,445 508,348 C 381,124 347,188 298,283 C 499,457 269,434 197,113 C 457,175 305,185 103,436 C 686,252 573,119 507,201 Z"></path>
+<path stroke="#f9d84b" stroke-width="2" fill="#f27630" opacity="0.5896499534084022" stroke-opacity="0.5111235573713951" transform="rotate(-24.0 400 300)" d="M 200,223  C 419,466 571,119 560,191 C 346,337 234,297 670,407 C 267,331 281,258 458,102 C 449,248 118,387 509,373 C 494,113 558,342 664,250 C 648,161 326,380 623,168 C 160,395 293,103 568,307 C 477,387 310,427 291,217 C 171,145 691,351 425,212 Z"></path>
+
+  </g>
+</svg>
