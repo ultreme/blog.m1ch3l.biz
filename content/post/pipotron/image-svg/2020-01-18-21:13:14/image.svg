@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="600px" viewBox="0 0 800 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs></defs>
+  <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    
+    <ellipse stroke="#02eb6b" stroke-width="2" fill="#02eb6b" opacity="0.2524510033283563" stroke-opacity="0.20203463299549299" transform="rotate(-51.0 400 300)" cx="245" rx="174" cy="214" ry="317"></ellipse>
+<path stroke="#f559a0" stroke-width="1" fill="#fe9225" opacity="0.2091171011655653" stroke-opacity="0.4061577346919126" transform="rotate(-172.0 400 300)" d="M 593,217  C 255,385 230,358 501,157 C 412,171 403,306 187,327 C 488,225 482,170 398,381 C 687,442 281,354 363,472 C 552,208 122,168 166,195 C 249,227 531,290 441,222 C 367,265 190,253 699,202 C 689,375 378,488 691,476 Z"></path>
+<path stroke="#f559a0" stroke-width="5" fill="#0fa6d8" opacity="0.5634242698054117" stroke-opacity="0.4708631332489398" transform="rotate(166.0 400 300)" d="M 310,298  C 235,344 148,405 409,156 C 589,197 153,388 664,341 C 348,362 399,190 529,273 C 139,356 122,103 240,124 C 104,265 269,444 263,281 C 558,204 433,324 602,466 C 119,192 257,276 279,359 C 644,161 338,241 509,481 C 565,427 466,403 148,417 C 537,422 308,143 618,478 C 272,288 175,444 673,281 Z"></path>
+<polygon stroke="#02eb6b" stroke-width="7" fill="#0fa6d8" opacity="0.6772177603244387" stroke-opacity="0.41403130907388963" transform="rotate(52.0 400 300)" points="165 36 668 48 692 597 721 158 93 431 "></polygon>
+<rect stroke="#02eb6b" stroke-width="4" fill="#0fa6d8" opacity="0.13946451005612026" stroke-opacity="0.39912735007599565" transform="rotate(66.0 400 300)" x="768" y="343" width="359" height="298"></rect>
+<rect stroke="#02eb6b" stroke-width="3" fill="#2cd3f3" opacity="0.277319142490238" stroke-opacity="0.5626146774208017" transform="rotate(106.0 400 300)" x="771" y="86" width="244" height="398"></rect>
+
+  </g>
+</svg>
