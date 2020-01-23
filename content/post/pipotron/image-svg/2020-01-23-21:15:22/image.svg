@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="600px" viewBox="0 0 800 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs></defs>
+  <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    
+    <ellipse stroke="#2b55f7" stroke-width="3" fill="#f27630" opacity="0.47792038332853326" stroke-opacity="0.879851868353058" transform="rotate(81.0 400 300)" cx="534" rx="356" cy="207" ry="260"></ellipse>
+<ellipse stroke="#2b55f7" stroke-width="3" fill="#2b55f7" opacity="0.4883404880003771" stroke-opacity="0.912573370836652" transform="rotate(-88.0 400 300)" cx="30" rx="73" cy="158" ry="185"></ellipse>
+<path stroke="#ed2b2c" stroke-width="5" fill="#f27630" opacity="0.9830703352222924" stroke-opacity="0.3668575334542636" transform="rotate(93.0 400 300)" d="M 603,441  C 182,480 298,456 604,172 C 610,341 256,459 669,309 C 307,249 117,448 242,471 C 614,188 353,122 197,242 C 420,379 158,179 557,337 C 577,202 437,103 573,381 C 184,254 188,124 165,144 Z"></path>
+<polygon stroke="#ed2b2c" stroke-width="3" fill="#31a06b" opacity="0.6910509021031699" stroke-opacity="0.2530530799586599" transform="rotate(-32.0 400 300)" points="213 270 490 479 226 88 641 364 36 173 487 561 58 60 382 210 "></polygon>
+<polygon stroke="#31a06b" stroke-width="5" fill="#ed2b2c" opacity="0.1572737597519233" stroke-opacity="0.49144133533686885" transform="rotate(93.0 400 300)" points="329 229 199 536 142 330 371 182 256 386 "></polygon>
+<rect stroke="#ed2b2c" stroke-width="2" fill="#f27630" opacity="0.9988155385405739" stroke-opacity="0.34973557448481435" transform="rotate(116.0 400 300)" x="195" y="373" width="187" height="188"></rect>
+<ellipse stroke="#f9d84b" stroke-width="4" fill="#f27630" opacity="0.8934001753796558" stroke-opacity="0.1696525129862555" transform="rotate(94.0 400 300)" cx="518" rx="47" cy="246" ry="78"></ellipse>
+<ellipse stroke="#ed2b2c" stroke-width="2" fill="#2b55f7" opacity="0.04597470790163187" stroke-opacity="0.14921348254631703" transform="rotate(-138.0 400 300)" cx="403" rx="347" cy="422" ry="175"></ellipse>
+
+  </g>
+</svg>
