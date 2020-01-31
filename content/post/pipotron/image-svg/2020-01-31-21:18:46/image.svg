@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="600px" viewBox="0 0 800 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs></defs>
+  <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    
+    <path stroke="#651954" stroke-width="4" fill="#B54197" opacity="0.8503248079736956" stroke-opacity="0.4638620539745618" transform="rotate(-87.0 400 300)" d="M 138,401  C 483,313 210,405 288,181 C 296,369 539,129 591,172 C 468,448 431,498 185,478 C 193,131 255,374 432,483 C 568,132 626,230 326,216 Z"></path>
+<rect stroke="#426C34" stroke-width="6" fill="#884AA7" opacity="0.7475352366112942" stroke-opacity="0.785148085006918" transform="rotate(-157.0 400 300)" x="482" y="60" width="99" height="350"></rect>
+<path stroke="#651481" stroke-width="6" fill="#A8DA54" opacity="0.9215323569155236" stroke-opacity="0.4083678797593135" transform="rotate(-164.0 400 300)" d="M 103,372  C 681,334 575,273 108,460 C 263,333 141,176 636,223 C 258,351 662,279 276,420 C 620,477 149,497 615,106 C 527,244 203,136 371,277 C 584,282 480,468 399,249 C 684,409 238,414 391,306 Z"></path>
+<path stroke="#1065B1" stroke-width="2" fill="#2DB68D" opacity="0.7976481493630138" stroke-opacity="0.07260631407617413" transform="rotate(153.0 400 300)" d="M 373,293  C 673,181 257,372 609,303 C 275,473 320,102 154,171 C 594,318 228,498 322,295 C 538,129 513,294 262,181 Z"></path>
+<ellipse stroke="#540C63" stroke-width="1" fill="#AC386D" opacity="0.5078620643298886" stroke-opacity="0.8322123705554861" transform="rotate(-123.0 400 300)" cx="605" rx="439" cy="543" ry="336"></ellipse>
+<path stroke="#62AB97" stroke-width="2" fill="#7A88B4" opacity="0.8149820965011435" stroke-opacity="0.5039612015691725" transform="rotate(-34.0 400 300)" d="M 404,162  C 452,432 595,363 147,217 C 230,344 631,455 118,339 C 466,130 184,398 448,393 C 646,111 414,291 141,194 C 175,463 656,496 305,188 Z"></path>
+<ellipse stroke="#8C16D6" stroke-width="7" fill="#A33B03" opacity="0.27526370713036297" stroke-opacity="0.8415242282670606" transform="rotate(-10.0 400 300)" cx="376" rx="112" cy="399" ry="57"></ellipse>
+<rect stroke="#8C8A4B" stroke-width="6" fill="#73D994" opacity="0.8906237711443905" stroke-opacity="0.10052166685813126" transform="rotate(105.0 400 300)" x="410" y="335" width="96" height="267"></rect>
+
+  </g>
+</svg>
