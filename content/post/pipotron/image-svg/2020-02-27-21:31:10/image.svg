@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="600px" viewBox="0 0 800 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs></defs>
+  <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    
+    <path stroke="#ed2b2c" stroke-width="5" fill="#2b55f7" opacity="0.32073036419882206" stroke-opacity="0.0309843500841298" transform="rotate(-70.0 400 300)" d="M 579,280  C 514,439 582,346 289,144 C 191,303 221,236 654,406 C 185,300 329,414 203,167 C 572,353 645,375 147,401 Z"></path>
+<path stroke="#2b55f7" stroke-width="3" fill="#ed2b2c" opacity="0.6396629169024551" stroke-opacity="0.2968924765782483" transform="rotate(80.0 400 300)" d="M 217,250  C 566,438 262,407 306,378 C 112,142 307,205 342,105 C 580,203 380,259 686,224 C 151,388 487,162 474,360 C 365,495 673,291 229,380 C 339,258 218,242 353,117 C 177,483 192,285 664,356 C 558,268 147,270 553,352 Z"></path>
+<path stroke="#f27630" stroke-width="4" fill="#f9d84b" opacity="0.1262914473073467" stroke-opacity="0.7445040395784691" transform="rotate(42.0 400 300)" d="M 281,145  C 382,254 167,269 410,248 C 395,334 620,115 631,383 C 532,128 442,263 533,376 C 517,166 443,403 572,333 C 552,256 335,125 597,383 C 429,288 268,305 689,390 C 489,494 604,204 107,344 Z"></path>
+<ellipse stroke="#f27630" stroke-width="3" fill="#31a06b" opacity="0.8954308333871664" stroke-opacity="0.10106647651553362" transform="rotate(-69.0 400 300)" cx="614" rx="187" cy="590" ry="123"></ellipse>
+<ellipse stroke="#ed2b2c" stroke-width="5" fill="#f9d84b" opacity="0.49793394284925035" stroke-opacity="0.9096264752189015" transform="rotate(-64.0 400 300)" cx="570" rx="160" cy="128" ry="33"></ellipse>
+<path stroke="#31a06b" stroke-width="4" fill="#ed2b2c" opacity="0.15392048919538148" stroke-opacity="0.040724255270138406" transform="rotate(41.0 400 300)" d="M 569,214  C 321,314 530,353 435,149 C 310,178 660,424 222,485 C 443,450 322,155 671,198 C 297,402 131,459 631,330 C 449,203 156,194 622,330 C 449,383 187,283 178,207 C 551,456 236,373 281,290 C 115,249 639,359 112,119 C 411,215 191,409 138,255 C 263,497 533,390 608,397 C 604,185 408,136 513,296 Z"></path>
+
+  </g>
+</svg>
