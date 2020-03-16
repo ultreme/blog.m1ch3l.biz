@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="600px" viewBox="0 0 800 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs></defs>
+  <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    
+    <ellipse stroke="#fe9225" stroke-width="6" fill="#02eb6b" opacity="0.14056363510497175" stroke-opacity="0.34708486654099746" transform="rotate(10.0 400 300)" cx="426" rx="377" cy="221" ry="117"></ellipse>
+<rect stroke="#2cd3f3" stroke-width="7" fill="#0fa6d8" opacity="0.8812890803089771" stroke-opacity="0.842353017487374" transform="rotate(-173.0 400 300)" x="98" y="453" width="306" height="24"></rect>
+<rect stroke="#2cd3f3" stroke-width="2" fill="#02eb6b" opacity="0.4161939418979841" stroke-opacity="0.8602516725185522" transform="rotate(-28.0 400 300)" x="452" y="19" width="296" height="103"></rect>
+<rect stroke="#fe9225" stroke-width="7" fill="#f559a0" opacity="0.48607416233435397" stroke-opacity="0.7878406148152963" transform="rotate(23.0 400 300)" x="278" y="189" width="157" height="152"></rect>
+<rect stroke="#f559a0" stroke-width="6" fill="#2cd3f3" opacity="0.026848994586976" stroke-opacity="0.2847744900182111" transform="rotate(-166.0 400 300)" x="498" y="115" width="55" height="265"></rect>
+<rect stroke="#fe9225" stroke-width="5" fill="#02eb6b" opacity="0.39899959579357525" stroke-opacity="0.18209777807596192" transform="rotate(-32.0 400 300)" x="492" y="287" width="173" height="232"></rect>
+<path stroke="#02eb6b" stroke-width="6" fill="#02eb6b" opacity="0.25754155441355925" stroke-opacity="0.37220671493923513" transform="rotate(74.0 400 300)" d="M 195,339  C 119,436 262,322 157,349 C 496,192 627,420 158,376 C 613,359 322,201 651,286 C 684,184 275,315 209,256 C 686,313 422,232 591,380 C 386,409 543,158 592,139 C 693,101 107,297 651,257 C 415,415 284,135 242,460 C 194,257 467,459 545,421 C 114,378 408,417 581,496 C 262,251 258,178 659,182 Z"></path>
+<rect stroke="#2cd3f3" stroke-width="5" fill="#0fa6d8" opacity="0.13852491949855136" stroke-opacity="0.7835858707623" transform="rotate(-121.0 400 300)" x="732" y="148" width="150" height="50"></rect>
+
+  </g>
+</svg>
