@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="600px" viewBox="0 0 800 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs></defs>
+  <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    
+    <polygon stroke="#ed2b2c" stroke-width="6" fill="#f27630" opacity="0.24550402191538978" stroke-opacity="0.5119979369782728" transform="rotate(-46.0 400 300)" points="563 358 144 522 699 385 602 444 302 455 "></polygon>
+<polygon stroke="#31a06b" stroke-width="1" fill="#f27630" opacity="0.6320289277782616" stroke-opacity="0.326114315657318" transform="rotate(23.0 400 300)" points="253 73 62 201 103 561 435 225 755 327 12 310 262 336 147 46 "></polygon>
+<rect stroke="#f9d84b" stroke-width="1" fill="#f9d84b" opacity="0.8490492070551879" stroke-opacity="0.8215460678955733" transform="rotate(68.0 400 300)" x="122" y="545" width="130" height="33"></rect>
+<polygon stroke="#2b55f7" stroke-width="4" fill="#31a06b" opacity="0.6342793445045855" stroke-opacity="0.9844182315428904" transform="rotate(-28.0 400 300)" points="734 410 313 175 527 367 681 398 284 422 568 15 228 123 "></polygon>
+<path stroke="#ed2b2c" stroke-width="2" fill="#f9d84b" opacity="0.04883490594362789" stroke-opacity="0.5858194627999691" transform="rotate(62.0 400 300)" d="M 149,396  C 608,249 548,184 254,410 C 319,162 181,313 114,141 C 594,408 407,173 447,407 C 428,184 484,374 605,201 C 451,487 110,391 577,232 C 308,383 248,382 502,149 C 241,264 573,397 170,406 C 645,122 252,256 348,473 Z"></path>
+<rect stroke="#ed2b2c" stroke-width="3" fill="#f27630" opacity="0.48315112233534424" stroke-opacity="0.1482949956019864" transform="rotate(-36.0 400 300)" x="393" y="436" width="273" height="216"></rect>
+<rect stroke="#31a06b" stroke-width="2" fill="#ed2b2c" opacity="0.7033442490963471" stroke-opacity="0.2547021283057539" transform="rotate(-169.0 400 300)" x="275" y="566" width="296" height="121"></rect>
+<ellipse stroke="#2b55f7" stroke-width="2" fill="#f27630" opacity="0.32807834011124554" stroke-opacity="0.8120214956313994" transform="rotate(-95.0 400 300)" cx="247" rx="113" cy="538" ry="231"></ellipse>
+<polygon stroke="#f9d84b" stroke-width="7" fill="#ed2b2c" opacity="0.7816632883249013" stroke-opacity="0.08897821087690985" transform="rotate(61.0 400 300)" points="318 554 526 425 798 9 484 260 63 378 123 212 "></polygon>
+
+  </g>
+</svg>
