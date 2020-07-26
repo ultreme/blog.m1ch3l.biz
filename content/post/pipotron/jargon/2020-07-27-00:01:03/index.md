@@ -1,0 +1,10 @@
+---
+title: "jargon"
+date: "Mon Jul 27 00:01:04 CEST 2020"
+tags: ["jargon", "pipotron"]
+author: m1ch3l
+categories: ["generated"]
+slug: "jargon/2020-07-27-00:01:03"
+---
+
+
