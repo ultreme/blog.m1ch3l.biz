@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="600px" viewBox="0 0 800 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs></defs>
+  <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    
+    <rect stroke="#f559a0" stroke-width="7" fill="#0fa6d8" opacity="0.8874073880255107" stroke-opacity="0.8169197619819635" transform="rotate(146.0 400 300)" x="92" y="176" width="297" height="160"></rect>
+<path stroke="#f559a0" stroke-width="7" fill="#fe9225" opacity="0.6920330794897671" stroke-opacity="0.7584825148854368" transform="rotate(116.0 400 300)" d="M 477,204  C 200,315 428,133 677,237 C 283,249 459,372 211,234 C 527,250 481,249 225,381 C 381,378 637,488 488,240 C 421,333 514,330 295,433 C 463,385 468,221 670,159 C 558,344 209,375 572,284 C 468,382 692,437 327,269 C 344,310 270,290 211,448 C 661,294 633,402 674,389 C 480,222 503,203 342,240 Z"></path>
+<path stroke="#2cd3f3" stroke-width="7" fill="#fe9225" opacity="0.0881108436420603" stroke-opacity="0.2810675669970289" transform="rotate(-9.0 400 300)" d="M 490,272  C 618,425 542,491 563,344 C 271,329 543,416 318,173 C 387,198 659,458 373,493 C 502,389 162,404 180,160 C 402,176 287,319 264,201 C 662,372 574,322 507,282 Z"></path>
+<path stroke="#2cd3f3" stroke-width="5" fill="#0fa6d8" opacity="0.34609579552844494" stroke-opacity="0.21885547386947865" transform="rotate(65.0 400 300)" d="M 428,199  C 198,225 172,472 686,102 C 349,430 323,448 134,319 C 296,155 473,160 439,211 C 474,274 538,445 632,154 C 349,335 465,345 421,188 Z"></path>
+<path stroke="#fe9225" stroke-width="2" fill="#0fa6d8" opacity="0.1959218203876751" stroke-opacity="0.8421051371948893" transform="rotate(127.0 400 300)" d="M 691,157  C 457,458 393,333 403,427 C 498,116 465,451 391,190 C 107,198 683,237 585,435 C 318,360 179,210 298,471 C 232,242 517,218 165,443 C 361,395 458,181 417,492 C 582,205 387,267 338,201 C 323,173 356,208 279,450 C 373,386 143,438 545,206 C 303,196 355,303 553,400 C 636,124 696,111 588,420 Z"></path>
+<ellipse stroke="#2cd3f3" stroke-width="4" fill="#fe9225" opacity="0.2019341052733718" stroke-opacity="0.04146994952953152" transform="rotate(-175.0 400 300)" cx="732" rx="292" cy="7" ry="336"></ellipse>
+<ellipse stroke="#0fa6d8" stroke-width="5" fill="#02eb6b" opacity="0.4097851696977355" stroke-opacity="0.9397259997342174" transform="rotate(147.0 400 300)" cx="386" rx="116" cy="7" ry="227"></ellipse>
+<ellipse stroke="#2cd3f3" stroke-width="2" fill="#f559a0" opacity="0.24779723994394415" stroke-opacity="0.5310058162995428" transform="rotate(-53.0 400 300)" cx="501" rx="156" cy="270" ry="202"></ellipse>
+<ellipse stroke="#fe9225" stroke-width="1" fill="#fe9225" opacity="0.4001266097511667" stroke-opacity="0.5437771682047452" transform="rotate(-17.0 400 300)" cx="15" rx="85" cy="504" ry="61"></ellipse>
+
+  </g>
+</svg>
