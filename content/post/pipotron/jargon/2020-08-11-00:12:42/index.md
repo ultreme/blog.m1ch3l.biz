@@ -1,0 +1,10 @@
+---
+title: "jargon"
+date: "Tue Aug 11 00:12:42 CEST 2020"
+tags: ["jargon", "pipotron"]
+author: m1ch3l
+categories: ["generated"]
+slug: "jargon/2020-08-11-00:12:42"
+---
+
+
