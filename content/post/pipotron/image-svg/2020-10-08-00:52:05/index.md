@@ -1,0 +1,10 @@
+---
+title: "image-svg"
+date: "Thu Oct  8 00:52:05 CEST 2020"
+tags: ["image-svg", "pipotron", "image"]
+author: m1ch3l
+categories: ["generated"]
+slug: "image-svg/2020-10-08-00:52:05"
+---
+
+![](image.svg)
