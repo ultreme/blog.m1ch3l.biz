@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="600px" viewBox="0 0 800 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs></defs>
+  <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    
+    <polygon stroke="#14C6D8" stroke-width="1" fill="#3ACBC2" opacity="0.25618683727452507" stroke-opacity="0.43674242049418555" transform="rotate(178.0 400 300)" points="60 369 105 212 671 190 579 315 772 252 "></polygon>
+<polygon stroke="#1AD668" stroke-width="7" fill="#29710D" opacity="0.810471698076541" stroke-opacity="0.4203406497018497" transform="rotate(-49.0 400 300)" points="382 8 585 443 83 30 736 441 796 30 595 252 104 59 516 564 "></polygon>
+<path stroke="#A25889" stroke-width="1" fill="#1C027C" opacity="0.9445694044859693" stroke-opacity="0.603483609933965" transform="rotate(-82.0 400 300)" d="M 124,371  C 428,223 155,426 434,330 C 242,487 696,445 269,299 C 361,243 394,319 132,349 C 525,372 235,148 516,177 C 681,458 564,357 194,450 C 235,364 204,257 254,383 C 188,407 653,363 233,226 C 622,289 428,382 382,188 Z"></path>
+<path stroke="#A10479" stroke-width="5" fill="#A93515" opacity="0.26774828683352725" stroke-opacity="0.22738072830501022" transform="rotate(151.0 400 300)" d="M 408,167  C 479,201 158,436 645,328 C 699,403 233,437 298,254 C 136,403 564,348 616,263 C 372,218 421,494 334,263 Z"></path>
+<ellipse stroke="#621519" stroke-width="1" fill="#290946" opacity="0.22192873265994176" stroke-opacity="0.6950637718458986" transform="rotate(-68.0 400 300)" cx="251" rx="402" cy="554" ry="162"></ellipse>
+<ellipse stroke="#9B4CCD" stroke-width="5" fill="#2C018C" opacity="0.3332730241832649" stroke-opacity="0.27130463838971736" transform="rotate(174.0 400 300)" cx="194" rx="341" cy="157" ry="239"></ellipse>
+<rect stroke="#951B55" stroke-width="6" fill="#C6C514" opacity="0.9348855486519277" stroke-opacity="0.986207634339832" transform="rotate(-144.0 400 300)" x="562" y="245" width="308" height="254"></rect>
+<rect stroke="#52DCD8" stroke-width="3" fill="#8D09BC" opacity="0.13536692420487004" stroke-opacity="0.022902510174609057" transform="rotate(-91.0 400 300)" x="16" y="59" width="370" height="287"></rect>
+
+  </g>
+</svg>
