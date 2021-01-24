@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="600px" viewBox="0 0 800 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs></defs>
+  <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    
+    <path stroke="#02eb6b" stroke-width="7" fill="#fe9225" opacity="0.17288511042929325" stroke-opacity="0.2621184378792643" transform="rotate(132.0 400 300)" d="M 312,295  C 401,202 152,372 532,369 C 334,408 260,232 411,228 C 693,200 634,164 252,134 C 512,214 478,384 579,138 C 353,160 225,108 440,489 Z"></path>
+<path stroke="#2cd3f3" stroke-width="4" fill="#0fa6d8" opacity="0.9416482595138531" stroke-opacity="0.3994420645810914" transform="rotate(-119.0 400 300)" d="M 629,293  C 554,270 130,396 372,472 C 211,295 441,166 271,490 C 181,480 102,293 507,390 C 177,150 447,260 494,350 Z"></path>
+<ellipse stroke="#0fa6d8" stroke-width="6" fill="#f559a0" opacity="0.038168153338855135" stroke-opacity="0.1717683358222336" transform="rotate(136.0 400 300)" cx="637" rx="86" cy="338" ry="215"></ellipse>
+<ellipse stroke="#f559a0" stroke-width="2" fill="#02eb6b" opacity="0.6668024125840964" stroke-opacity="0.35503596034895146" transform="rotate(-57.0 400 300)" cx="67" rx="401" cy="27" ry="339"></ellipse>
+<ellipse stroke="#02eb6b" stroke-width="2" fill="#2cd3f3" opacity="0.4650537535580876" stroke-opacity="0.030234295176779356" transform="rotate(-58.0 400 300)" cx="350" rx="443" cy="187" ry="202"></ellipse>
+<rect stroke="#0fa6d8" stroke-width="4" fill="#0fa6d8" opacity="0.16652768586531042" stroke-opacity="0.4805144109746628" transform="rotate(156.0 400 300)" x="496" y="157" width="117" height="183"></rect>
+
+  </g>
+</svg>
