@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="600px" viewBox="0 0 800 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs></defs>
+  <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    
+    <polygon stroke="#31a06b" stroke-width="4" fill="#2b55f7" opacity="0.8028953673524934" stroke-opacity="0.36696421139739244" transform="rotate(-170.0 400 300)" points="87 380 250 582 140 128 696 507 513 380 621 113 "></polygon>
+<ellipse stroke="#f27630" stroke-width="7" fill="#ed2b2c" opacity="0.7639572198468423" stroke-opacity="0.10674141167981908" transform="rotate(72.0 400 300)" cx="596" rx="112" cy="257" ry="203"></ellipse>
+<polygon stroke="#f27630" stroke-width="3" fill="#ed2b2c" opacity="0.6441529894975921" stroke-opacity="0.7173959660299967" transform="rotate(172.0 400 300)" points="375 397 156 478 635 587 605 13 723 405 733 60 208 485 239 165 "></polygon>
+<polygon stroke="#f9d84b" stroke-width="6" fill="#31a06b" opacity="0.7050688145169965" stroke-opacity="0.5841530898749524" transform="rotate(-159.0 400 300)" points="39 598 612 314 364 102 716 412 799 200 "></polygon>
+<ellipse stroke="#2b55f7" stroke-width="3" fill="#2b55f7" opacity="0.5800654411103312" stroke-opacity="0.8868751819217161" transform="rotate(-54.0 400 300)" cx="421" rx="137" cy="131" ry="332"></ellipse>
+<polygon stroke="#31a06b" stroke-width="7" fill="#2b55f7" opacity="0.03660199536202428" stroke-opacity="0.09551612375863669" transform="rotate(-134.0 400 300)" points="555 547 728 326 712 251 38 29 760 288 331 42 261 393 "></polygon>
+<polygon stroke="#f9d84b" stroke-width="5" fill="#f27630" opacity="0.5687315231243627" stroke-opacity="0.11722513066061716" transform="rotate(-160.0 400 300)" points="549 17 154 593 529 543 171 284 329 276 196 292 176 309 13 8 "></polygon>
+<path stroke="#f27630" stroke-width="6" fill="#f27630" opacity="0.8421826875122245" stroke-opacity="0.7674346929395899" transform="rotate(-21.0 400 300)" d="M 327,226  C 176,277 391,437 428,377 C 150,496 314,112 418,463 C 446,332 337,387 499,282 C 592,416 200,275 301,419 C 489,494 481,129 483,457 C 423,324 478,320 421,394 C 401,198 641,160 158,285 C 564,337 357,226 424,253 C 559,292 453,479 448,106 C 120,383 414,281 170,116 C 135,308 118,332 353,450 Z"></path>
+<ellipse stroke="#2b55f7" stroke-width="6" fill="#ed2b2c" opacity="0.5203752137630729" stroke-opacity="0.42568731360209855" transform="rotate(-55.0 400 300)" cx="719" rx="426" cy="152" ry="124"></ellipse>
+<rect stroke="#f27630" stroke-width="2" fill="#f9d84b" opacity="0.263957130587187" stroke-opacity="0.7461666180305698" transform="rotate(138.0 400 300)" x="506" y="206" width="58" height="71"></rect>
+
+  </g>
+</svg>
