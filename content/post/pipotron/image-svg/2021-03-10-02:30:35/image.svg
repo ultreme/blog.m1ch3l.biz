@@ -1,15 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="800px" height="600px" viewBox="0 0 800 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <defs></defs>
-  <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-    
-    <rect stroke="#98A90D" stroke-width="7" fill="#5415AD" opacity="0.5235276832726926" stroke-opacity="0.674397265958543" transform="rotate(132.0 400 300)" x="474" y="81" width="175" height="346"></rect>
-<rect stroke="#83147C" stroke-width="3" fill="#0138D7" opacity="0.03928792431713562" stroke-opacity="0.33407335841716684" transform="rotate(-17.0 400 300)" x="247" y="8" width="289" height="134"></rect>
-<rect stroke="#9A424C" stroke-width="5" fill="#633844" opacity="0.3288900388759691" stroke-opacity="0.02777919003644778" transform="rotate(-102.0 400 300)" x="475" y="379" width="150" height="291"></rect>
-<polygon stroke="#159271" stroke-width="3" fill="#D7D664" opacity="0.37443600209717814" stroke-opacity="0.6164614679186156" transform="rotate(-97.0 400 300)" points="577 310 18 128 508 436 426 239 607 102 233 158 "></polygon>
-<rect stroke="#138709" stroke-width="3" fill="#5261C1" opacity="0.9292910208598858" stroke-opacity="0.6026727963621222" transform="rotate(-31.0 400 300)" x="525" y="380" width="284" height="69"></rect>
-<ellipse stroke="#1D5122" stroke-width="1" fill="#05B95D" opacity="0.44829126101704503" stroke-opacity="0.07455539124476059" transform="rotate(178.0 400 300)" cx="502" rx="160" cy="117" ry="79"></ellipse>
-<ellipse stroke="#619060" stroke-width="6" fill="#048148" opacity="0.15014015179024784" stroke-opacity="0.14952531065462168" transform="rotate(-3.0 400 300)" cx="290" rx="153" cy="473" ry="213"></ellipse>
-
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="600" version="1.1" viewBox="0 0 800 600"><g fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><rect width="175" height="346" x="474" y="81" fill="#5415AD" stroke="#98A90D" stroke-opacity=".674" stroke-width="7" opacity=".524" transform="rotate(132.0 400 300)"/><rect width="289" height="134" x="247" y="8" fill="#0138D7" stroke="#83147C" stroke-opacity=".334" stroke-width="3" opacity=".039" transform="rotate(-17.0 400 300)"/><rect width="150" height="291" x="475" y="379" fill="#633844" stroke="#9A424C" stroke-opacity=".028" stroke-width="5" opacity=".329" transform="rotate(-102.0 400 300)"/><polygon fill="#D7D664" stroke="#159271" stroke-opacity=".616" stroke-width="3" points="577 310 18 128 508 436 426 239 607 102 233 158" opacity=".374" transform="rotate(-97.0 400 300)"/><rect width="284" height="69" x="525" y="380" fill="#5261C1" stroke="#138709" stroke-opacity=".603" stroke-width="3" opacity=".929" transform="rotate(-31.0 400 300)"/><ellipse cx="502" cy="117" fill="#05B95D" stroke="#1D5122" stroke-opacity=".075" stroke-width="1" opacity=".448" rx="160" ry="79" transform="rotate(178.0 400 300)"/><ellipse cx="290" cy="473" fill="#048148" stroke="#619060" stroke-opacity=".15" stroke-width="6" opacity=".15" rx="153" ry="213" transform="rotate(-3.0 400 300)"/></g></svg>
