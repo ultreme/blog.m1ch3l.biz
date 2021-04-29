@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="600px" viewBox="0 0 800 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs></defs>
+  <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    
+    <rect stroke="#2b55f7" stroke-width="6" fill="#2b55f7" opacity="0.8318296782881939" stroke-opacity="0.15590665092240752" transform="rotate(100.0 400 300)" x="500" y="511" width="302" height="341"></rect>
+<path stroke="#2b55f7" stroke-width="4" fill="#2b55f7" opacity="0.8998907610236669" stroke-opacity="0.11930184173573376" transform="rotate(-54.0 400 300)" d="M 181,118  C 573,495 293,115 657,236 C 415,183 451,209 126,135 C 648,259 284,122 294,331 C 688,450 111,418 134,162 C 473,411 458,181 519,168 C 449,441 416,320 582,358 C 570,192 583,295 690,208 C 397,109 168,103 154,298 Z"></path>
+<path stroke="#2b55f7" stroke-width="2" fill="#31a06b" opacity="0.9202890643129482" stroke-opacity="0.5700736847518122" transform="rotate(34.0 400 300)" d="M 394,447  C 263,394 408,277 676,464 C 602,147 203,234 692,473 C 368,477 461,127 299,262 C 476,272 477,124 459,381 C 551,413 389,219 425,184 C 350,200 488,109 521,272 C 113,342 615,483 640,370 C 275,239 349,150 347,206 C 211,392 685,123 247,158 C 563,239 250,374 418,454 C 634,383 328,263 545,321 Z"></path>
+<rect stroke="#f9d84b" stroke-width="6" fill="#f27630" opacity="0.158054118232955" stroke-opacity="0.21761250071140104" transform="rotate(170.0 400 300)" x="783" y="464" width="245" height="154"></rect>
+<path stroke="#ed2b2c" stroke-width="5" fill="#2b55f7" opacity="0.4436140677988569" stroke-opacity="0.0801983216188761" transform="rotate(-140.0 400 300)" d="M 571,108  C 432,179 457,197 379,112 C 523,176 626,223 364,301 C 624,402 149,416 352,374 C 313,190 141,250 309,399 C 693,468 642,443 670,109 Z"></path>
+<rect stroke="#ed2b2c" stroke-width="4" fill="#ed2b2c" opacity="0.45714436245862616" stroke-opacity="0.05890348560948968" transform="rotate(112.0 400 300)" x="203" y="79" width="128" height="341"></rect>
+<path stroke="#f9d84b" stroke-width="3" fill="#2b55f7" opacity="0.7377960800633361" stroke-opacity="0.9995684633703446" transform="rotate(-2.0 400 300)" d="M 589,145  C 405,383 205,228 614,200 C 606,203 344,355 411,408 C 389,323 645,392 582,316 C 124,295 575,395 140,150 C 601,295 670,313 367,360 Z"></path>
+
+  </g>
+</svg>
