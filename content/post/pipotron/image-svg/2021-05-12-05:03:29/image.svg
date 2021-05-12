@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="600px" viewBox="0 0 800 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs></defs>
+  <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    
+    <path stroke="#f27630" stroke-width="1" fill="#31a06b" opacity="0.7814987136959283" stroke-opacity="0.5204894196867382" transform="rotate(-164.0 400 300)" d="M 285,152  C 429,133 125,442 624,372 C 564,451 144,161 654,366 C 398,293 370,264 699,368 C 244,395 347,486 187,412 Z"></path>
+<path stroke="#ed2b2c" stroke-width="2" fill="#ed2b2c" opacity="0.2822849708407416" stroke-opacity="0.09850492855563328" transform="rotate(-153.0 400 300)" d="M 345,336  C 175,175 423,457 629,103 C 557,202 426,360 137,199 C 589,478 446,459 191,109 C 336,369 459,152 443,295 C 664,286 168,343 162,431 C 161,329 667,144 359,399 C 673,449 500,284 628,320 C 168,407 252,176 121,160 Z"></path>
+<path stroke="#2b55f7" stroke-width="4" fill="#2b55f7" opacity="0.19773839938227783" stroke-opacity="0.6164784607287583" transform="rotate(-4.0 400 300)" d="M 376,422  C 301,449 330,472 235,401 C 144,190 496,463 294,127 C 121,394 627,271 550,436 C 416,185 591,195 361,358 C 429,193 650,456 186,229 Z"></path>
+<rect stroke="#ed2b2c" stroke-width="1" fill="#f9d84b" opacity="0.990101043354355" stroke-opacity="0.7834045099346623" transform="rotate(104.0 400 300)" x="260" y="336" width="55" height="371"></rect>
+<ellipse stroke="#f27630" stroke-width="2" fill="#f27630" opacity="0.9103435747282387" stroke-opacity="0.848532012472919" transform="rotate(-128.0 400 300)" cx="270" rx="133" cy="364" ry="279"></ellipse>
+<rect stroke="#2b55f7" stroke-width="7" fill="#ed2b2c" opacity="0.2597110274904489" stroke-opacity="0.44979352532311234" transform="rotate(-94.0 400 300)" x="304" y="125" width="98" height="236"></rect>
+<polygon stroke="#2b55f7" stroke-width="3" fill="#ed2b2c" opacity="0.9277007719507054" stroke-opacity="0.058230188924142494" transform="rotate(140.0 400 300)" points="367 8 91 585 487 379 725 474 535 5 632 266 454 389 "></polygon>
+<rect stroke="#f9d84b" stroke-width="5" fill="#ed2b2c" opacity="0.518622694338208" stroke-opacity="0.38600146883318004" transform="rotate(-149.0 400 300)" x="289" y="309" width="68" height="354"></rect>
+<rect stroke="#f27630" stroke-width="2" fill="#f27630" opacity="0.3960433712824599" stroke-opacity="0.6877395654455839" transform="rotate(16.0 400 300)" x="658" y="68" width="237" height="117"></rect>
+
+  </g>
+</svg>
