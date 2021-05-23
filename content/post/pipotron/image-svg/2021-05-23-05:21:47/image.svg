@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="600px" viewBox="0 0 800 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs></defs>
+  <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    
+    <path stroke="#f559a0" stroke-width="2" fill="#f559a0" opacity="0.9472548838251398" stroke-opacity="0.20300790061800522" transform="rotate(-135.0 400 300)" d="M 258,356  C 519,305 612,480 610,407 C 383,430 652,373 261,308 C 506,353 595,132 133,199 C 208,268 340,132 158,420 C 226,243 463,293 355,128 C 673,211 648,114 426,327 C 690,250 483,447 289,331 C 516,160 515,236 191,254 C 307,429 260,144 591,113 C 498,304 688,429 168,253 C 443,312 144,287 142,399 Z"></path>
+<rect stroke="#fe9225" stroke-width="5" fill="#02eb6b" opacity="0.35720548868162094" stroke-opacity="0.7404045536462206" transform="rotate(-48.0 400 300)" x="344" y="518" width="61" height="39"></rect>
+<rect stroke="#f559a0" stroke-width="5" fill="#0fa6d8" opacity="0.9269649225290282" stroke-opacity="0.7635244137698773" transform="rotate(-6.0 400 300)" x="281" y="3" width="165" height="249"></rect>
+<polygon stroke="#02eb6b" stroke-width="1" fill="#fe9225" opacity="0.8015461448088662" stroke-opacity="0.4704729694110082" transform="rotate(-176.0 400 300)" points="765 324 124 330 299 423 456 71 488 577 273 127 "></polygon>
+<ellipse stroke="#f559a0" stroke-width="4" fill="#fe9225" opacity="0.6619154058932019" stroke-opacity="0.38843453913645926" transform="rotate(21.0 400 300)" cx="530" rx="354" cy="172" ry="130"></ellipse>
+<rect stroke="#02eb6b" stroke-width="7" fill="#02eb6b" opacity="0.31395237570878115" stroke-opacity="0.3602069538705499" transform="rotate(-72.0 400 300)" x="114" y="420" width="165" height="62"></rect>
+<polygon stroke="#0fa6d8" stroke-width="6" fill="#fe9225" opacity="0.8411222386989994" stroke-opacity="0.3354509904442305" transform="rotate(-66.0 400 300)" points="73 167 237 20 609 372 164 64 314 176 "></polygon>
+<ellipse stroke="#2cd3f3" stroke-width="7" fill="#2cd3f3" opacity="0.022892080871761693" stroke-opacity="0.593029652987556" transform="rotate(77.0 400 300)" cx="795" rx="252" cy="26" ry="90"></ellipse>
+
+  </g>
+</svg>
